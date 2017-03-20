@@ -7,7 +7,7 @@
 /* Fonts */
 @font-face {
     font-family: "Bebas Neue";
-    src: url("fonts/BebasNeue.otf"); /* IE9 Compat Modes */
+    src: url("fonts/BebasNeue.otf") format('otf');
     font-weight: normal;
     font-style: normal;
 }
