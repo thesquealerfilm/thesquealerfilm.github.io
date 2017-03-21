@@ -79,10 +79,12 @@ h6 {
 /* Nav */
 .navbar-custom {
     font-family: "BebasNeue-Thin", sans-serif;
+    font-size: x-large;
 }
 
 .navbar-brand {
     font-family: "BebasNeue-Bold", sans-serif;
+    font-size: x-large;
 }
 
 
