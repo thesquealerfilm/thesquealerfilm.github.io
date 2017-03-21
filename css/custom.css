@@ -5,7 +5,7 @@
 @font-face {
     font-family: "BebasNeue-Bold";
     src: url("fonts/BebasNeue-Bold.otf") format("otf");
-    src: url("fonts/BebasNeue-Bold.ttf") format("otf");
+    src: url("fonts/BebasNeue-Bold.ttf") format("truetype");
     font-weight: bolder;
     font-style: normal;
 }
@@ -13,7 +13,7 @@
 @font-face {
     font-family: "BebasNeue-Book";
     src: url("fonts/BebasNeue-Book.otf") format("otf");
-    src: url("fonts/BebasNeue-Book.ttf") format("otf");
+    src: url("fonts/BebasNeue-Book.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -21,7 +21,7 @@
 @font-face {
     font-family: "BebasNeue-Light";
     src: url("fonts/BebasNeue-Light.otf") format("otf");
-    src: url("fonts/BebasNeue-Light.ttf") format("otf");
+    src: url("fonts/BebasNeue-Light.ttf") format("truetype");
     font-weight: lighter;
     font-style: normal;
 }
@@ -29,7 +29,7 @@
 @font-face {
     font-family: "BebasNeue-Regular";
     src: url("fonts/BebasNeue-Regular.otf") format("otf");
-    src: url("fonts/BebasNeue-Regular.ttf") format("otf");
+    src: url("fonts/BebasNeue-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -37,8 +37,8 @@
 @font-face {
     font-family: "BebasNeue-Thin";
     src: url("fonts/BebasNeue-Thin.otf") format("otf");
-    src: url("fonts/BebasNeue-Thin.ttf") format("otf");
-    font-weight: 100;
+    src: url("fonts/BebasNeue-Thin.ttf") format("truetype");
+    font-weight: normal;
     font-style: normal;
 }
 
