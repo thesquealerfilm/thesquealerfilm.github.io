@@ -73,15 +73,12 @@ h4,
 h5,
 h6 {
   font-family: "BebasNeue-Regular", sans-serif;
-  font-weight: 700;
-  letter-spacing: 1px;
 }
 
 
 /* Nav */
 .navbar-custom {
   font-family: "BebasNeue-Thin", sans-serif;
-  background-color: black;
 }
 
 
