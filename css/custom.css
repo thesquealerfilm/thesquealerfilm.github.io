@@ -95,6 +95,11 @@ h6 {
 
 
 /* Intro section */
+
+.intro-body{
+    vertical-align: bottom;
+}
+
 .brand-heading {
     margin-bottom: 0px;
 }
