@@ -57,3 +57,35 @@
     font-style: normal;
 }
 
+
+/* Body Text, Headings */
+body {
+  font-family: "BebasNeue-Thin", sans-serif;
+}
+
+h1 {
+   font-family: "BebasNeue-Bold", sans-serif;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "BebasNeue-Regular", sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+
+/* Nav */
+.navbar-custom {
+  font-family: "BebasNeue-Thin, sans-serif;
+  background-color: black;
+}
+
+
+/* Buttons */
+.btn {
+  font-family: "BebasNeue-Thin", sans-serif;
+}
