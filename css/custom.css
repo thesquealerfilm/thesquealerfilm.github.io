@@ -58,7 +58,7 @@
 }
 
 
-/* Body Text, Headings */
+/* General Body Text, Headings */
 body {
     font-family: "BebasNeue-Thin", sans-serif;
 }
@@ -91,4 +91,19 @@ h6 {
 /* Buttons */
 .btn {
     font-family: "BebasNeue-Thin", sans-serif;
+}
+
+
+/* Intro section */
+.brand-heading {
+    margin-bottom: 0px;
+}
+
+.intro-text {
+    margin: 0 0 15px;
+}
+
+.btn-circle {
+    margin-top: 0px;
+    margin-bottom: 25px;
 }
