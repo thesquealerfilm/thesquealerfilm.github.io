@@ -96,6 +96,10 @@ h6 {
 
 /* Intro section */
 
+.intro {
+    background: url(../img/3john-with-gun-bg.png) no-repeat bottom center scroll;
+}
+
 .intro .intro-body{
     vertical-align: bottom;
 }
