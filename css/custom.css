@@ -60,11 +60,11 @@
 
 /* Body Text, Headings */
 body {
-  font-family: "BebasNeue-Thin", sans-serif;
+    font-family: "BebasNeue-Thin", sans-serif;
 }
 
 h1 {
-   font-family: "BebasNeue-Bold", sans-serif;
+    font-family: "BebasNeue-Bold", sans-serif;
 }
 
 h2,
@@ -72,17 +72,21 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "BebasNeue-Regular", sans-serif;
+    font-family: "BebasNeue-Regular", sans-serif;
 }
 
 
 /* Nav */
 .navbar-custom {
-  font-family: "BebasNeue-Thin", sans-serif;
+    font-family: "BebasNeue-Thin", sans-serif;
+}
+
+.navbar-brand {
+    font-family: "BebasNeue-Bold", sans-serif;
 }
 
 
 /* Buttons */
 .btn {
-  font-family: "BebasNeue-Thin", sans-serif;
+    font-family: "BebasNeue-Thin", sans-serif;
 }
