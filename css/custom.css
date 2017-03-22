@@ -58,9 +58,10 @@
 }
 
 
-/* General Body Text, Headings */
+/* Body, Headings */
 body {
     font-family: "BebasNeue-Thin", sans-serif;
+    background-color: #070707;
 }
 
 h1 {
