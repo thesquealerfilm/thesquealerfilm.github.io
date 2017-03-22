@@ -99,6 +99,8 @@ h6 {
 .intro {
     background: url(../img/4john-with-gun-bg.png) no-repeat top center scroll;
     background-size: auto 100%;
+    padding-top: 500px;
+    padding-bottom: 0px;
 }
 
 .intro .intro-body{
