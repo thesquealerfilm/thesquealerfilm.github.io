@@ -93,9 +93,15 @@ h6 {
 }
 
 
-/* Buttons */
+/* Buttons and Lists */
 .btn {
     font-family: "BebasNeue-Thin", sans-serif;
+}
+
+.list-group-item {
+    padding: 15px 15px;
+    background-color: none;
+    border: none;
 }
 
 
