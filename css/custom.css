@@ -121,3 +121,8 @@ h6 {
     margin-bottom: 25px;
     border: none;
 }
+
+/* Downloads section */
+.download-section {
+  background: none;
+}
