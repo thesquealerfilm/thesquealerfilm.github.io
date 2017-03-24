@@ -139,6 +139,16 @@ h6 {
 }
 
 
+/* Carousel section */
+.carousel-caption {
+    position: initial;
+}
+
+.glyphicon {
+    top: -45px;
+}
+
+
 /* Credits section */
 .credit-name {
     font-size: 24px;
